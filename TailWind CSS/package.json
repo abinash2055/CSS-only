@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "shery": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^5.2.11"
+  }
+}
